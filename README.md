@@ -1,16 +1,17 @@
-👋 Hii, I'm Bhupendra Chauhan
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Bhupendra Chauhan
+
+# I'm a Developer and Student
+
+## just a Introduction:
+
+Hi, I'm Bhupendra Chauhan, A Student and Learner 🚀 from Allahabad,Uttar Pradesh, India, currently 💻 doing my undergraduate BTECH (1st year) from Lovely professional university and I am passionate about Entrepreneruship and Technology  want to learn & explore every field, Beside's Computer Science, I love reading Books, to know about business facts, Travelling and playing basketball.
 
 
-**itsparth1011/itsparth1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👀 I’m interested in Data Science, Full Stack Web Development
+- 🌱 I’m currently learning new technologies and
+- 👯 I’m looking to collaborate  with entrepreneurs and developers
+-  🥅 2022 Goal: To work on side hustle
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
