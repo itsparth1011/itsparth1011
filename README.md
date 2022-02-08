@@ -1,8 +1,8 @@
 👋 Hii, I'm Bhupendra Chauhan
 
 
-<!-- **itsparth1011/itsparth1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- -->
+**itsparth1011/itsparth1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
