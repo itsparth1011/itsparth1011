@@ -11,7 +11,5 @@ Hi, I'm Bhupendra Chauhan, A Student and Learner 🚀 from Allahabad,Uttar Prade
 - 👀 I’m interested in Data Science, Full Stack Web Development
 - 🌱 I’m currently learning new technologies and
 - 👯 I’m looking to collaborate  with entrepreneurs and developers
--  🥅 2022 Goal: To work on side hustle
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+-  🥅 2024 Goal: To work on side hustle
 
